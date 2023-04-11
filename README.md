@@ -1,4 +1,5 @@
 ## A todo site with a simple user registration and login system
+![Django Todo](https://user-images.githubusercontent.com/49074377/231274842-ca35155e-f547-4882-a2c3-2eb72c7efd8e.png)
 ## **Setup**
 Let's start with the Django installation first.
 
