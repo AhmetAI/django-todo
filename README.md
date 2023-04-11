@@ -1,4 +1,4 @@
-## A to-do site made with python django
+## A todo site with a simple user registration and login system
 ## **Setup**
 Let's start with the Django installation first.
 
