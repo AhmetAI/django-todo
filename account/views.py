@@ -21,7 +21,7 @@ def user_login(request):
             return redirect("index")
 
         else:
-            return render(request, "account/login.html", {"error":"Kullanıcı Adı Veya Parola Yanlış"})
+            return render(request, "account/login.html", {"error":"Username or password is incorrect"})
 
             
     return render(request, "account/login.html")
